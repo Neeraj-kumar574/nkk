@@ -7,7 +7,7 @@
    <body>
 <table cellspacing="20">
  <tr>
-   <td> <img src="C:\Users\DELL\Downloads\circle-cropped (1).png" size="400"></td>
+   <td> <img src="C:\Users\DELL\Downloads\circle-cropped (1).png"></td>
   <td> <h1> Jon Kleinberg</h1>
   <em> Tisch University Professor</em><br>
 
